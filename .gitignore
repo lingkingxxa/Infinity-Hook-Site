@@ -1,0 +1,8 @@
+# Windows DLLs
+*.dll
+
+# VS Code settings
+.vscode/
+
+# Misc
+Output.txt
